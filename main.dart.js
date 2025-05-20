@@ -108185,7 +108185,7 @@ A.abh.prototype={}
 A.aa6.prototype={
 $0(){var s,r,q,p=$.CM
 if(p==null)p=$.CM=new A.CL(new A.Lu())
-s=A.b7I("https://shoe-difficulty-termination-engagement.trycloudflare.com",B.pC,B.pC)
+s=A.b7I("https://the-second-wife-1.onrender.com/",B.pC,B.pC)
 r=new A.Ui(A.a([B.FY],t.i6))
 q=new A.SM($,r,$,new A.aiS(51200),!1)
 q.qR$=s
